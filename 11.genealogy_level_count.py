@@ -1,4 +1,3 @@
-
 #http://pythontutor.ru/lessons/dicts/problems/genealogy_level_count/
 #Занятие 11. Словари
 #Задача «Родословная: подсчет уровней»
